@@ -1,6 +1,12 @@
 # Recommendation Letter Drafts
 
-Drafts prepared for professor review for master's applications.
+Field-specific recommendation-letter drafts for **Md. Sakib Al Hasan**’s international master’s and scholarship applications.
+
+Applicant: **Md. Sakib Al Hasan**  
+Student ID: **12011064**  
+Academic session: **Winter 2020**  
+Primary direction: **HCI, UX Research, Interaction Design, Product Design, and Human-Centered AI**  
+Secondary direction: **Computer Science, Software Engineering, and AI**
 
 ## Files
 
@@ -12,10 +18,24 @@ Drafts prepared for professor review for master's applications.
 - `recommendation-letter-ceo-cs-ai.md` — CEO professional recommendation for Computer Science, Software Engineering, and AI
 - `research-notes.md` — drafting principles and sources consulted
 
-## Important before sending
+## Referee versions
 
-These are drafts for the professor to review, revise, and submit. Replace every bracketed placeholder with verified information. The professor should only retain claims they can personally confirm.
+- Professor Partho Sarathi Sarker: academic HCI and CS/AI references
+- Professor Md. Riadul Islam: academic HCI and CS/AI references
+- Al-Mamun Talukder, Founder & CEO of WolfDevs LLC: professional HCI and CS/AI references
 
-Applicant: **Md. Sakib Al Hasan**, Student ID **12011064**, Winter 2020 session. The stated graduate preference is HCI, UX research, and human-centered AI, supported by professional product and interaction-design experience. A secondary application direction is Computer Science, Software Engineering, and AI.
+## Before submission
 
-Portfolio evidence reviewed from the in-app browser includes current and previous UX/product-design roles, end-to-end UX cycles, user research, information architecture, prototyping, usability testing, developer handoff, design systems, frontend implementation, and products including BlazeWP, StepBlitz, Onnomatra, OmniPixCraft, FinlyPal, and TheraNote.
+1. Replace each `[Date]` placeholder.
+2. Confirm all names, titles, awards, dates, and project descriptions with the relevant referee.
+3. Use official institutional or company letterhead when the application permits it.
+4. The referee should review, edit, sign, and submit the letter directly using their official email whenever required.
+5. Check each university or scholarship’s specific instructions because requirements differ.
+
+These drafts support the referees. The referee should remain the final author and retain only claims they can personally confirm.
+
+## Verified background used
+
+Portfolio evidence includes product-design roles, end-to-end UX cycles, user research, information architecture, prototyping, usability testing, developer handoff, design systems, frontend implementation, and products including BlazeWP, StepBlitz, Onnomatra, OmniPixCraft, FinlyPal, and TheraNote.
+
+Academic evidence includes the thesis **“Guava Leaf Disease Detection and Classification Based on Transfer Learning Technique,”** defended in February 2024, with Xception achieving 95.54% test accuracy.
