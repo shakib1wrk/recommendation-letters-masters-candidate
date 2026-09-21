@@ -6,6 +6,8 @@ Drafts prepared for professor review for master's applications.
 
 - `recommendation-letter-hci.md` — HCI, UX research, and human-centered AI
 - `recommendation-letter-cs-ai.md` — Computer Science, software engineering, and AI
+- `recommendation-letter-riadul-hci.md` — Professor Riadul Islam, HCI, UX research, and human-centered AI
+- `recommendation-letter-riadul-cs-ai.md` — Professor Riadul Islam, Computer Science, software engineering, and AI
 - `research-notes.md` — drafting principles and sources consulted
 
 ## Important before sending

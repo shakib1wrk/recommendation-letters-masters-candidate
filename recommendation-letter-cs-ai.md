@@ -3,7 +3,7 @@
 **Partho Sarathi Sarker**  
 Assistant Professor, Department of CSE  
 University of Global Village, Barishal  
-**[Official email]**  
+**[Official university email]**  
 **[Date]**
 
 **To the Admissions Committee,**
@@ -18,11 +18,11 @@ In completing the project, Sakib demonstrated analytical reasoning, programming 
 
 Sakib also has the habits needed for software engineering and research. His thesis required him to manage a complete machine-learning workflow: collecting and labeling images, preprocessing and augmenting data, training several architectures, comparing accuracy, precision, recall, F1-score, loss, and confusion matrices, and documenting limitations and future work. When confronted with the practical difficulties of a constrained agricultural dataset and visually similar diseases, he addressed them through comparative experimentation and careful discussion of generalization limits. His willingness to learn and improve is a strong indicator that he can adapt to advanced coursework and research problems whose solutions are not immediately obvious.
 
-Beyond his project-specific skills, Sakib has a solid foundation in computer science and a genuine interest in artificial intelligence, particularly computer vision and deep learning. His professional work also gives him practical familiarity with HTML, CSS, JavaScript, React, Astro, Tailwind CSS, Git, GitHub, and developer collaboration. His thesis was completed in November 2023, and the result was published in February/March 2024. I believe he would benefit from a rigorous graduate environment and would contribute as a conscientious and technically engaged member of a research or engineering team.
+Beyond his project-specific skills, Sakib has a solid foundation in computer science and a genuine interest in artificial intelligence, particularly computer vision and deep learning. His professional work also gives him practical familiarity with HTML, CSS, JavaScript, React, Astro, Tailwind CSS, Git, GitHub, and developer collaboration. His thesis was completed in November 2023 and defended in February 2024. I believe he would benefit from a rigorous graduate environment and would contribute as a conscientious and technically engaged member of a research or engineering team.
 
 I recommend Md. Sakib for admission with confidence. His thesis experience, computing background, and capacity for independent learning provide a strong basis for master’s-level study in Computer Science, Software Engineering, or Artificial Intelligence. I am confident that he will approach graduate work with commitment, intellectual curiosity, and the determination to develop into a strong researcher or software professional.
 
-Please feel free to contact me at **[official email]** if additional information would be helpful.
+Please feel free to contact me at **[official university email]** if additional information would be helpful.
 
 **Sincerely,**  
 Partho Sarathi Sarker  

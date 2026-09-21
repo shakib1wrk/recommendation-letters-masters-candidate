@@ -1,14 +1,14 @@
-# Draft Letter of Recommendation — HCI / UX Research / Human-Centered AI
+# Recommendation Letter — HCI / UX Research / Human-Centered AI
 
 **Partho Sarathi Sarker**  
 Assistant Professor, Department of CSE  
 University of Global Village, Barishal  
-**[Official email]**  
+**[Official university email]**  
 **[Date]**
 
 **To the Admissions Committee,**
 
-I am pleased to recommend **Md. Sakib** for admission to your master’s program in **Human-Computer Interaction, User Experience Research, or Human-Centered Artificial Intelligence**. I know Sakib through his undergraduate study in the Department of Computer Science and Engineering at the **University of Global Village, Barishal**, where he was a member of the 6th batch and held student ID 12011064. I have known him since he began university in 2020, both as his course teacher and as his undergraduate thesis supervisor. I consider him a thoughtful, motivated, and promising candidate for graduate study at the intersection of technology and human needs.
+I am pleased to recommend **Md. Sakib** for admission to your master’s program in **Human-Computer Interaction, User Experience Research, or Human-Centered Artificial Intelligence**. I taught Sakib and supervised his undergraduate thesis in the Department of Computer Science and Engineering at the **University of Global Village, Barishal**. I have known him since he began university in 2020. As a member of the 6th batch and a student with ID 12011064, he demonstrated a thoughtful interest in how computing can address practical human needs.
 
 Since completing his undergraduate studies, Sakib has developed substantial professional experience in UX and product design. He currently works as a **Product Design Engineer at WolfDevs**, a Bangladesh-based company building no-code e-commerce and web products. His work includes UX research, end-to-end product design, collaboration with stakeholders and software engineers, production-ready frontend implementation, and design-system work. Previously, as a Senior UX Designer and UX/UI Designer, he led complete UX cycles involving research, information architecture, wireframes, prototypes, interface design, usability testing, and developer handoff. His professional direction is therefore strongly consistent with graduate study in HCI, UX research, interaction design, and human-centered AI.
 
