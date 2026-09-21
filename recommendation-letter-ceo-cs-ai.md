@@ -21,7 +21,7 @@ Sakib is a responsible and collaborative professional. He works directly with me
 
 I believe Sakib is ready for demanding master’s-level study. He has the CSE foundation, applied AI research experience, technical communication skills, and professional maturity to contribute to a graduate program in Computer Science, Software Engineering, or AI.
 
-Sakib’s future development is important to WolfDevs. I sincerely hope and expect that, after completing his master’s degree, he will return and rejoin our team, where his advanced technical and product knowledge could support future software, AI, and research initiatives.
+Sakib’s future development is important to WolfDevs. After completing his master’s degree, I would be pleased to welcome him back to WolfDevs, should an appropriate opportunity be available. His advanced technical and product knowledge could support future software, AI, and research initiatives.
 
 I recommend **Md. Sakib Al Hasan** with confidence for admission and scholarship consideration. Please contact me at **ceo@wolfdevs.com** if further information is required.
 
