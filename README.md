@@ -10,12 +10,12 @@ Secondary direction: **Computer Science, Software Engineering, and AI**
 
 ## Files
 
-- `recommendation-letter-hci.md` — HCI, UX research, and human-centered AI
-- `recommendation-letter-cs-ai.md` — Computer Science, software engineering, and AI
-- `recommendation-letter-riadul-hci.md` — Professor Riadul Islam, HCI, UX research, and human-centered AI
-- `recommendation-letter-riadul-cs-ai.md` — Professor Riadul Islam, Computer Science, software engineering, and AI
-- `recommendation-letter-ceo-hci.md` — CEO professional recommendation for HCI, UX research, product design, and human-centered AI
-- `recommendation-letter-ceo-cs-ai.md` — CEO professional recommendation for Computer Science, Software Engineering, and AI
+- `recommendation-letter-professor-partho-hci.md` — Professor Partho, HCI, UX research, and human-centered AI
+- `recommendation-letter-professor-partho-cs-ai.md` — Professor Partho, Computer Science, software engineering, and AI
+- `recommendation-letter-professor-riadul-hci.md` — Professor Riadul, HCI, UX research, and human-centered AI
+- `recommendation-letter-professor-riadul-cs-ai.md` — Professor Riadul, Computer Science, software engineering, and AI
+- `recommendation-letter-founder-ceo-hci.md` — Founder and CEO, HCI, UX research, product design, and human-centered AI
+- `recommendation-letter-founder-ceo-cs-ai.md` — Founder and CEO, Computer Science, Software Engineering, and AI
 - `research-notes.md` — drafting principles and sources consulted
 
 ## Referee versions
