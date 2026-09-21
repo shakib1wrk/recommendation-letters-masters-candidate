@@ -8,7 +8,7 @@ Email: riadul.cse@ugv.edu.bd
 
 **To the Admissions Committee,**
 
-I am pleased to recommend **Md. Sakib** for admission to your master’s program in **Human-Computer Interaction, User Experience Research, or Human-Centered Artificial Intelligence**. I taught Sakib and supervised his undergraduate thesis in the Department of Computer Science and Engineering at the **University of Global Village, Barishal**. I have known him since he began university in 2020, and I observed his development from a CSE undergraduate into a professional product and UX designer.
+I am pleased to recommend **Md. Sakib Al Hasan** for admission to your master’s program in **Human-Computer Interaction, User Experience Research, or Human-Centered Artificial Intelligence**. I taught Sakib and supervised his undergraduate thesis in the Department of Computer Science and Engineering at the **University of Global Village, Barishal**. I have known him since he began university in the **Winter 2020 session**, and I observed his development from a CSE undergraduate into a professional product and interaction designer.
 
 Sakib’s preparation for HCI is unusual in a valuable way: it combines formal computing education, applied AI research, and professional experience designing digital products. He currently works as a Product Design Engineer at WolfDevs, where he conducts UX research, leads product design, collaborates with stakeholders and software engineers, and contributes to production-ready frontend experiences. His earlier UX roles involved research, information architecture, wireframes, prototypes, interface design, usability testing, and developer handoff.
 
@@ -18,7 +18,7 @@ Sakib’s undergraduate thesis, **“Guava Leaf Disease Detection and Classifica
 
 I believe Sakib is well prepared for graduate study in HCI, UX research, interaction design, or human-centered AI. He brings technical fluency, research curiosity, design practice, and a clear interest in accessibility, trust, explainability, and context-aware interaction. His combination of CSE training and professional UX experience would allow him to contribute a valuable perspective to interdisciplinary study and research.
 
-I recommend Md. Sakib with confidence. Please feel free to contact me at **riadul.cse@ugv.edu.bd** if further information is required.
+I recommend Md. Sakib Al Hasan with confidence. Please feel free to contact me at **riadul.cse@ugv.edu.bd** if further information is required.
 
 **Sincerely,**  
 **Md. Riadul Islam**  

@@ -8,7 +8,7 @@ Email: riadul.cse@ugv.edu.bd
 
 **To the Admissions Committee,**
 
-I am pleased to recommend **Md. Sakib** for admission to your master’s program in **Computer Science, Software Engineering, or Artificial Intelligence**. I taught Sakib and supervised his undergraduate thesis in the Department of Computer Science and Engineering at the **University of Global Village, Barishal**. I have known him since 2020 and saw his academic development throughout his undergraduate education.
+I am pleased to recommend **Md. Sakib Al Hasan** for admission to your master’s program in **Computer Science, Software Engineering, or Artificial Intelligence**. I taught Sakib and supervised his undergraduate thesis in the Department of Computer Science and Engineering at the **University of Global Village, Barishal**. I have known him since the **Winter 2020 session** and saw his academic development throughout his undergraduate education.
 
 Sakib’s thesis, **“Guava Leaf Disease Detection and Classification Based on Transfer Learning Technique,”** is strong evidence of his preparation for graduate study in AI and computer science. The project addressed the classification of guava leaf diseases from images and required a complete machine-learning workflow: data collection, preprocessing, labeling, augmentation, model training, comparative evaluation, and discussion of limitations. The dataset contained 3,240 photographs organized into seven classes and divided into training, validation, and test sets.
 
@@ -18,7 +18,7 @@ An additional strength of the work was Sakib’s awareness of its limitations. H
 
 Sakib’s professional work complements his academic preparation. As a Product Design Engineer, he works with stakeholders and software engineers, develops frontend experiences, and has practical familiarity with HTML, CSS, JavaScript, React, Astro, Tailwind CSS, Git, and GitHub. His UX and product-design experience has strengthened his ability to understand requirements, communicate technical ideas, and think about how software performs in real use.
 
-I recommend Md. Sakib with confidence for graduate study in Computer Science, Software Engineering, or Artificial Intelligence. He has the technical foundation, research experience, and independent-learning ability required for a demanding master’s program. Please feel free to contact me at **riadul.cse@ugv.edu.bd** if further information is required.
+I recommend Md. Sakib Al Hasan with confidence for graduate study in Computer Science, Software Engineering, or Artificial Intelligence. He has the technical foundation, research experience, and independent-learning ability required for a demanding master’s program. Please feel free to contact me at **riadul.cse@ugv.edu.bd** if further information is required.
 
 **Sincerely,**  
 **Md. Riadul Islam**  
