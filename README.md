@@ -32,6 +32,15 @@ Secondary direction: **Computer Science, Software Engineering, and AI**
 4. The referee should review, edit, sign, and submit the letter directly using their official email whenever required.
 5. Check each university or scholarship’s specific instructions because requirements differ.
 
+## Recommended combinations
+
+Do not submit all six drafts together. Select one letter from each referee, and follow the application’s required number of references.
+
+- HCI, UX Research, Interaction Design, or Human-Centered AI: Professor Partho’s HCI letter, Professor Riadul’s HCI letter, and the Founder & CEO’s HCI letter.
+- Computer Science, Software Engineering, or AI: Professor Partho’s CS/AI letter, Professor Riadul’s CS/AI letter, and the Founder & CEO’s CS/AI letter.
+
+The professors provide academic and research evidence; the Founder & CEO provides an independent professional perspective. The drafts intentionally avoid repeating the same portfolio projects and thesis metrics in every letter. Each referee must review and retain only claims they can personally verify.
+
 These drafts support the referees. The referee should remain the final author and retain only claims they can personally confirm.
 
 ## Verified background used
