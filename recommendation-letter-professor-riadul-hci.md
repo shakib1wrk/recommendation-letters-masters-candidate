@@ -1,18 +1,20 @@
-# Letter of Recommendation
+# Letter of Recommendation — HCI / UX / Human-Centered AI
 
 [Date]
 
 To the Admissions Committee,
 
-I am writing to recommend **Md. Sakib Al Hasan** (Student ID: 12011064) for graduate study in Human-Computer Interaction, UX Research, Interaction Design, or Human-Centered AI. I have known Sakib since the Winter 2020 session at the University of Global Village, where I taught him and served as one of his thesis supervisors.
+I am writing to recommend **Md. Sakib Al Hasan** (Student ID: 12011064) for research-focused graduate study in Human-Computer Interaction, UX Research, Interaction Design, or Human-Centered AI. I have known him since the Winter 2020 session at the University of Global Village, where I taught him in the Department of Computer Science and Engineering and co-supervised his undergraduate thesis, **“Guava Leaf Disease Detection and Classification Based on Transfer Learning Technique.”**
 
-Sakib was a thoughtful student who connected classroom concepts with practical problems. His thesis, **“Guava Leaf Disease Detection and Classification Based on Transfer Learning Technique,”** applied AI to a problem with direct relevance to agricultural users. This gave him a useful foundation for thinking about technology that must be understandable and appropriate for its context.
+The project gave Sakib an early opportunity to see how a technical system relates to the people and setting it is intended to serve. My perspective on his work is less about repeating model metrics and more about his engagement with an applied problem: he learned to connect machine-learning choices with a real agricultural use case and to explain the purpose and limitations of the system.
 
-As a Product Design Engineer at WolfDevs LLC, Sakib now works with software engineers and web developers on digital products. His portfolio reflects product discovery, user flows, interaction decisions, prototyping, usability-oriented thinking, and design handoff. He is not limited to visual execution; he asks what users are trying to accomplish, where a process becomes difficult, and how a system can communicate more clearly.
+Sakib’s professional development has since moved toward product and interaction design. At WolfDevs LLC, where he is a Product Design Engineer, he works with software engineers and web developers. His portfolio documents product discovery, user flows, interaction decisions, prototyping, usability-oriented thinking, and developer handoff. He is drawn to the underlying product questions—what users need to accomplish, where a process creates friction, and how a system can communicate more clearly—rather than visual execution alone.
 
-His technical understanding also helps him discuss feasibility with developers. I believe Sakib has the motivation and interdisciplinary preparation to contribute positively to graduate study, and I recommend him for admission and scholarship consideration.
+His computing education helps him discuss feasibility with developers, while his design practice keeps attention on user goals and product behavior. This combination is a credible basis for further study in HCI or human-centered AI, where research often requires both technical literacy and careful attention to people’s experience.
 
-Please feel free to contact me if further information is required.
+I believe Sakib has the motivation and interdisciplinary preparation to contribute to graduate research. I recommend him for admission and scholarship consideration in a program aligned with HCI, UX Research, or Human-Centered AI.
+
+Please contact me if further information is required.
 
 Sincerely,
 
